@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bluewaterhomecare.netlify.app/sitemap.xml
